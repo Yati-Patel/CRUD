@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Yati Patel",
+      "salary": "50000",
+      "company": "TCS",
+      "id": 1
+    },
+    {
+      "name": "Parixit Patel",
+      "salary": "52000",
+      "company": "Conti",
+      "id": 4
+    },
+    {
+      "name": "guddi",
+      "salary": "20000",
+      "company": "RobotBoss",
+      "id": 5
+    }
+  ]
+}
